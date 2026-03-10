@@ -1,4 +1,4 @@
-Here's the README in pure text format for your MicroGoals project:
+Here's the README in pure text format for  MicroGoal project:
 
 
 ---
